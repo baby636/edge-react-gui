@@ -113,7 +113,8 @@ export const WALLET_TYPE_ORDER = [
   'wallet:zcoin',
   'wallet:ufo',
   'wallet:telos',
-  'wallet:wax'
+  'wallet:wax',
+  'wallet:fantom'
 ]
 
 // Put these in reverse order of preference
@@ -135,6 +136,7 @@ export const CURRENCY_PLUGIN_NAMES = {
   ETC: 'ethereumclassic',
   FIO: 'fio',
   FTC: 'feathercoin',
+  FTM: 'fantom',
   GRS: 'groestlcoin',
   LTC: 'litecoin',
   QTUM: 'qtum',
