@@ -195,7 +195,7 @@
     "appcenter-cli": "^2.7.3",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.6.3",
-    "babel-loader": "^8.0.5",
+    "babel-loader": "^8.2.4",
     "body-parser": "^1.18.2",
     "edge-plugin-bity": "https://github.com/EdgeApp/edge-plugin-bity.git#36c597e5ac9d53db87ee1f705360f9cc937b7b52",
     "edge-plugin-simplex": "https://github.com/EdgeApp/edge-plugin-simplex.git#efb0f2280192894e4c24e28e297d0e466f2d333b",
@@ -227,8 +227,8 @@
     "rollup-plugin-node-resolve": "4.0.0",
     "sucrase": "^3.15.0",
     "updot": "^1.1.7",
-    "webpack": "^4.29.3",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
   },
   "detox": {
     "test-runner": "jest",
