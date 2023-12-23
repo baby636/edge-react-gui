@@ -225,7 +225,7 @@
     "react-test-renderer": "17.0.1",
     "rollup": "^1.1.2",
     "rollup-plugin-node-resolve": "4.0.0",
-    "sucrase": "^3.15.0",
+    "sucrase": "^3.35.0",
     "updot": "^1.1.7",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3"
