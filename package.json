@@ -200,7 +200,7 @@
     "edge-plugin-bity": "https://github.com/EdgeApp/edge-plugin-bity.git#36c597e5ac9d53db87ee1f705360f9cc937b7b52",
     "edge-plugin-simplex": "https://github.com/EdgeApp/edge-plugin-simplex.git#efb0f2280192894e4c24e28e297d0e466f2d333b",
     "edge-plugin-wyre": "https://github.com/EdgeApp/edge-plugin-wyre.git#3ff34e5f6ebdfea1199f6acccedc703cc9abcd7a",
-    "eslint": "7.14.0",
+    "eslint": "9.0.0",
     "eslint-config-standard-kit": "^0.14.4",
     "eslint-plugin-detox": "^1.0.0",
     "eslint-plugin-flowtype": "^5.1.0",
