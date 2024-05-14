@@ -142,7 +142,7 @@
     "lodash": "^4.17.19",
     "qrcode-generator": "^1.4.4",
     "react": "17.0.1",
-    "react-native": "0.64.0",
+    "react-native": "0.72.0",
     "react-native-airship": "^0.2.4",
     "react-native-camera": "git://github.com/EdgeApp/react-native-camera.git#edge-fixes",
     "react-native-check-version": "^1.0.5",
@@ -192,7 +192,7 @@
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.6.0",
     "@babel/runtime": "^7.12.5",
-    "appcenter-cli": "^2.7.3",
+    "appcenter-cli": "^2.10.1",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.6.3",
     "babel-loader": "^8.0.5",
@@ -215,7 +215,7 @@
     "express": "^4.16.2",
     "flow-bin": "^0.84.0",
     "husky": "^4.2.5",
-    "jest": "^26.6.3",
+    "jest": "^27.0.0",
     "jest-junit": "^9.0.0",
     "jetifier": "^1.6.5",
     "lint-staged": "^10.2.6",
@@ -227,8 +227,8 @@
     "rollup-plugin-node-resolve": "4.0.0",
     "sucrase": "^3.15.0",
     "updot": "^1.1.7",
-    "webpack": "^4.29.3",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
   },
   "detox": {
     "test-runner": "jest",
