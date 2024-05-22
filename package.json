@@ -220,7 +220,7 @@
     "jetifier": "^1.6.5",
     "lint-staged": "^10.2.6",
     "metro-react-native-babel-preset": "^0.64.0",
-    "patch-package": "^6.2.2",
+    "patch-package": "^6.4.6",
     "prettier": "^2.0.5",
     "react-test-renderer": "17.0.1",
     "rollup": "^1.1.2",
