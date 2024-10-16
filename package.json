@@ -134,7 +134,7 @@
     "disklet": "^0.4.5",
     "edge-components": "^0.0.31",
     "edge-core-js": "^0.17.32",
-    "edge-currency-accountbased": "^0.7.56",
+    "edge-currency-accountbased": "^0.22.19",
     "edge-currency-bitcoin": "^4.9.14",
     "edge-currency-monero": "^0.2.10",
     "edge-exchange-plugins": "^0.11.25",
@@ -227,7 +227,7 @@
     "rollup-plugin-node-resolve": "4.0.0",
     "sucrase": "^3.15.0",
     "updot": "^1.1.7",
-    "webpack": "^4.29.3",
+    "webpack": "^5.0.0",
     "webpack-cli": "^3.2.3"
   },
   "detox": {
