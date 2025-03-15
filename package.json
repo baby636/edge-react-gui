@@ -130,7 +130,7 @@
     "csv-stringify": "^5.6.2",
     "dateformat": "^3.0.3",
     "detect-bundler": "^1.0.0",
-    "detox": "^18.10.0",
+    "detox": "^20.34.5",
     "disklet": "^0.4.5",
     "edge-components": "^0.0.31",
     "edge-core-js": "^0.17.32",
@@ -142,7 +142,7 @@
     "lodash": "^4.17.19",
     "qrcode-generator": "^1.4.4",
     "react": "17.0.1",
-    "react-native": "0.64.0",
+    "react-native": "0.69.12",
     "react-native-airship": "^0.2.4",
     "react-native-camera": "git://github.com/EdgeApp/react-native-camera.git#edge-fixes",
     "react-native-check-version": "^1.0.5",
@@ -189,7 +189,7 @@
     "why-did-you-update": "^0.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.6.0",
     "@babel/runtime": "^7.12.5",
     "appcenter-cli": "^2.7.3",
